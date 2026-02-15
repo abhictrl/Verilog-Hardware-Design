@@ -1,2 +1,2 @@
-# Verilog-Hardware-Design
-Digital logic implementation and Verilog modules from HDLBits
+#Digital Logic & Verilog Journey
+This repository tracks my progress through Hardware Description Language (HDL) fundamentals.
